@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Hello, welcome to my React app hosted on AWS Amplify!</h1>
-      <h2> Vishnu Naidu  </h2>
+      <h2> Sahil Todsam  </h2>
     </div>
   );
 }
